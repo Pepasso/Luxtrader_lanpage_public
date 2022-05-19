@@ -1,4 +1,4 @@
 # Luxtrader_landpage
 Свёрстанный адаптивный лэндинг с возможным дальнейшим продолжением в полноценный сайт( в шаблоне, есть только главная), используется scss, js, html, которые собираются Gulp'ом. (это только публичная часть, исходники находятя в другом репозитории).
 
-![Иллюстрация к проекту](https://github.com/Pepasso/Luxtrader_landpage/blob/main/luxtrader.png)
+![Иллюстрация к проекту](https://github.com/Pepasso/Luxtrader_lanpage_public/blob/main/luxtrader.png)
